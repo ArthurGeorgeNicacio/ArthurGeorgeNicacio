@@ -1,29 +1,10 @@
-## Hello, nice to meet you! 👋
+## It’s a pleasure to meet you! 👋
 
-- 🔭 I’m currently working on ...
+Hello! My name is Arthur, and I’m a frontend developer in training, passionate about creating functional, beautiful, and accessible interfaces. I have technical training in Systems Development, and I’m currently focused on strengthening my skills in essential frontend technologies such as HTML, CSS, JavaScript, and Angular. I’m still at the beginning of my journey, but I study consistently and aim to turn theory into practice through projects that will soon be available here on my GitHub.
 
-<div> 
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGeorgeNicacio&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGeorgeNicacio&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+My goal is to land my first professional opportunity in the field — whether an internship or a junior position — so I can learn from experienced developers, contribute to real teams, and grow within the tech industry. Even though I’m just starting out, I treat every concept I learn as an important piece in building a solid and creative career.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="RTs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+I believe in clear code, continuous improvement, and solving problems with simplicity and intention. Over time, this profile will become a space where I document my journey, ideas, and projects — all with honesty and dedication.
 
-##
-
-<div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+If you’d like to get in touch, you can reach me at profissional.arthurgeorge@gmail.com. I’ll also add the link to my LinkedIn profile here soon. Thank you for visiting — there’s much more to come.
 
